@@ -1,1 +1,12 @@
-Docs/
+# MacOS
+.DS_Store
+
+# CocoaPods
+Pods/
+gen/
+
+# Swift Package Manager
+Package.pins
+Package.resolved
+.swiftpm
+.build
